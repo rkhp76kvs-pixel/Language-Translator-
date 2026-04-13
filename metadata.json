@@ -1,0 +1,6 @@
+{
+  "name": "LingoLive",
+  "description": "Real-time AI language learning partner with voice conversations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
